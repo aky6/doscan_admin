@@ -1,0 +1,12 @@
+.totalSale{
+
+    margin-left: 10%;
+    margin-top: 18%;
+    width: 80%;
+
+}
+
+.flex-btn{
+    display: flex;
+    justify-content: space-evenly;
+}
